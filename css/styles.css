@@ -86,6 +86,7 @@ nav ul li a:hover{
 }
 
 nav ul li .bouton {
+    width: 111px;
     background: white;
     color: black;
     padding: 8px 15px;
@@ -135,7 +136,6 @@ nav ul li .bouton:hover {
     border-radius: 5px;
     font-size: 1.1em;
     font-weight: bold;
-    transition: 0.3s;
 }
 
 .hero button:hover {
